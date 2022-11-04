@@ -17,7 +17,7 @@
 <p>See leht on võimalik tänu:</p>  
 <a href="https://taltech.ee/">Taltechile</a>  
   
-<img src="[url](https://ih1.redbubble.net/image.641766924.7072/flat,750x,075,f-pad,750x1000,f8f8f8.u9.jpg)" alt="Bear">
+<img src="https://ih1.redbubble.net/image.641766924.7072/flat,750x,075,f-pad,750x1000,f8f8f8.u9.jpg" alt="Bear">
 
 
 <body>
