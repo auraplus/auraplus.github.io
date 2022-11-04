@@ -8,8 +8,10 @@
 <h1>Tudengikood</h1>
 <p>222900IACB</p>
   
-<h1>Tudengikood</h1>
+<h1>Paragrahv 1</h1>
 <p>See on üks lause. See on ka teine lause. Tuleb ka kolmas lause.</p>
+  
+
   
 <h2>Paragrahv 2</h2>
 <p>See leht on võimalik tänu:</p>  
@@ -38,4 +40,7 @@
 <p>See tabel näitab nii mõndagi.</p>
 
 </body>
-</html>
+  
+<h2>Lorem Ipsum</h2>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
