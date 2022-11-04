@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html>
 <head>
 <title>Vahva lehekülg</title>
@@ -11,6 +12,6 @@
 <p>See leht on võimalik tänu:</p>  
 <a href="https://taltech.ee/">Taltechile</a>  
   
- 
+<img src="27kj2r.jpg" width="500" height="600">
 </body>
 </html>
